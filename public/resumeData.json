@@ -1,183 +1,186 @@
 {
   "main": {
-    "name":"Jeremy E. Jefferson",
-    "description":"Front-End Developer ⫸ Mastery in React, JavaScript, HTML, & CSS | Specialist in UI/UX Design | Adept at TypeScript, Node.js, Express, AngularJS, Vue.js, & MySQL",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "name": "Jeremy E. Jefferson",
+    "description": "Front-End Developer ⫸ Mastery in React, JavaScript, HTML, & CSS | Specialist in UI/UX Design | Adept at TypeScript, Node.js, Express, AngularJS, Vue.js, & MySQL",
+    "image": "profilepic.jpg",
+    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "jeremyejefferson@gmail.com",
     "phone": "832-574-9862",
-    "github":"https://github.com/Jeremy-Jefferson",
-    "project":"https://github.com/Jeremy-Jefferson/Jeremy-Jefferson-Portfolio",
-    "address":{
-      "city":"Houston",
-      "state":"Texas",
+    "github": "https://github.com/Jeremy-Jefferson",
+    "project": "https://github.com/Jeremy-Jefferson/Jeremy-Jefferson-Portfolio",
+    "address": {
+      "city": "Houston",
+      "state": "Texas",
       "zip": "77027"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
-    "social":[
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
       {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
+        "name": "facebook",
+        "url": "https://github.com/nordicgiant2/react-nice-resume",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
+        "name": "instagram",
+        "url": "http://instagram.com/tbaker_x",
+        "className": "fa fa-instagram"
       },
       {
-        "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/nordicgiant2/react-nice-resume",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
+        "school": "Fullstack Academy",
+        "degree": "Fullstack Academy x Amazon Career Choice Web Development Bootcamp",
+        "graduated": "October 2023",
+        "description": "-Back-end development proficiency: Node.js, Express, Services, and APIs (REST API integration).
+        -Front-end development proficiency: HTML5, CSS, JavaScript, Razor, Twig, Typescript, Bootstrap, React, Angular, Vue, jQuery, and WebXR.
+        -Data systems proficiency: SQLite, PostgreSQL, Sequelize, MySQL, MongoDB.
+        -Object-oriented programming and full-stack applications."
+      }
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Rocky Mountain College of Art + Design (RMCAD)",
+        "degree": "Bachelor of Fine Arts in Illustration (BFA Illustration)",
+        "graduated": "June 2016",
+        "description": "The Bachelor of Fine Arts in Illustration program at Rocky Mountain College of Art + Design (RMCAD) offers a comprehensive curriculum that combines graphic design and illustration. The program requires students to complete at least 123 credits, including core courses in liberal arts, illustration courses, studio art, and art history. The curriculum covers a wide range of mediums and techniques, including metalworking, ceramics, painting, drawing, printmaking, photography, and new media, alongside traditional and experimental media. The program aims to equip students with fundamental skills, craftsmanship, and techniques used in visual art, fostering their creative expression, personal artistic style, and understanding of the role of art in society. Upon completion, students are expected to have acquired a hybrid degree that provides them with the skills and knowledge to become successful illustrators, as well as a comprehensive understanding of the role of art in relation to other disciplines and contemporary life."
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Awesome Design Studio",
+        "title": "Senior UX God ",
+        "years": "March 2018 - Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Super Cool Studio",
+        "title": "Junior bug fixer",
+        "years": "March 2017 - February 2018",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Python",
-        "level":"60%"
+        "name": "Python",
+        "level": "60%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "name": "VueJs",
+        "level": "55%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name": "ReactJs",
+        "level": "50%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name": "CSS",
+        "level": "90%"
       },
       {
-        "name":"PHP",
-        "level":"80%"
+        "name": "PHP",
+        "level": "80%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
+        "name": "Swift",
+        "level": "50%"
       },
       {
-        "name":"JAVA",
-        "level":"80%"
+        "name": "JAVA",
+        "level": "80%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "01.jpg",
+        "url": "https://www.canadianwanderlust.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
       },
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "06.jpg",
+        "url": "https://www.canadianwanderlust.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "01.jpg",
+        "url": "http://www.timbakerdev.com"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
       },
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "06.jpg",
+        "url": "https://www.canadianwanderlust.com"
       }
     ]
   }
