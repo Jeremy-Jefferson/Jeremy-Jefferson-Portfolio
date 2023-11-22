@@ -19,27 +19,27 @@
     "social": [
       {
         "name": "facebook",
-        "url": "https://github.com/nordicgiant2/react-nice-resume",
+        "url": "https://www.facebook.com/jeremyejefferson/",
         "className": "fa fa-facebook"
       },
       {
         "name": "twitter",
-        "url": "http://twitter.com",
+        "url": "https://twitter.com/Vagrant_Mugen",
         "className": "fa fa-twitter"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/jeremyejefferson/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
+        "url": "https://www.instagram.com/jeremyejefferson/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/nordicgiant2/react-nice-resume",
+        "url": "https://github.com/Jeremy-Jefferson",
         "className": "fa fa-github"
       }
     ]
@@ -48,66 +48,69 @@
   "resume": {
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
 
-    "work 1": {
-      "company": "Organized Systems",
-      "title": "Front-End Developer | UI/UX Designer",
-      "years": "January 2016 - Present",
-      "description": [
-        "• Developed responsive websites for 40+ clients, tailoring each site to meet the unique branding and user experience requirements of individual clients.",
-        "• Collaborated closely with clients to deliver highly customized, visually appealing websites that exceeded expectations.",
-        "• Optimized code for rendering components on UI, reducing HTTP requests by 70% for applications dealing with extensive data sets, such as e-commerce platforms and data analytics tools.",
-        "• Implemented efficient data caching mechanisms, resulting in faster page load times and a seamless user experience, particularly for data-intensive applications.",
-        "• Implemented isomorphic React and Node.js for 40+ web applications, significantly decreasing load times by 58% and enhancing overall user experience.",
-        "• Integrated modern web technologies, including Progressive Web App (PWA) features, improving website performance and user engagement, especially on mobile devices.",
-        "• Utilized Object Oriented Programming concepts to develop reusable UI components, enhancing efficiency across various web applications.",
-        "• Spearheaded Agile/Scrum practices in multiple web development projects, conducting daily standup meetings to ensure transparent communication, track progress, and swiftly address challenges.",
-        "• Initiated and led regular sprint retrospectives, evaluating team performance, identifying bottlenecks, and implementing process improvements. Cultivated a culture of continuous learning and enhancement within the team.",
-        "• Facilitated collaborative brainstorming sessions across diverse teams, bridging the gap between design and development; offered technical insights and expertise, resulting in cohesive, visually appealing, and user-friendly web applications."
-      ]
-    },
+    "work": [
+      {
+        "company": "Organized Systems",
+        "title": "Front-End Developer | UI/UX Designer",
+        "years": "January 2016 - Present",
+        "description": [
+          "• Developed responsive websites for 40+ clients, tailoring each site to meet the unique branding and user experience requirements of individual clients.",
+          "• Collaborated closely with clients to deliver highly customized, visually appealing websites that exceeded expectations.",
+          "• Optimized code for rendering components on UI, reducing HTTP requests by 70% for applications dealing with extensive data sets, such as e-commerce platforms and data analytics tools.",
+          "• Implemented efficient data caching mechanisms, resulting in faster page load times and a seamless user experience, particularly for data-intensive applications.",
+          "• Implemented isomorphic React and Node.js for 40+ web applications, significantly decreasing load times by 58% and enhancing overall user experience.",
+          "• Integrated modern web technologies, including Progressive Web App (PWA) features, improving website performance and user engagement, especially on mobile devices.",
+          "• Utilized Object Oriented Programming concepts to develop reusable UI components, enhancing efficiency across various web applications.",
+          "• Spearheaded Agile/Scrum practices in multiple web development projects, conducting daily standup meetings to ensure transparent communication, track progress, and swiftly address challenges.",
+          "• Initiated and led regular sprint retrospectives, evaluating team performance, identifying bottlenecks, and implementing process improvements. Cultivated a culture of continuous learning and enhancement within the team.",
+          "• Facilitated collaborative brainstorming sessions across diverse teams, bridging the gap between design and development; offered technical insights and expertise, resulting in cohesive, visually appealing, and user-friendly web applications."
+        ]
+      },
+      {
+        "company": "Stone & Brier",
+        "title": "UI/UX Designer",
+        "years": "January 2017 - January 2019",
+        "description": [
+          "Creative Direction and Client Collaboration",
+          "Enhanced User Engagement:",
+          "• Led brainstorming meetings and creative sessions for 3-5 branding and visual design clients, resulting in a 25% increase in user engagement across multiple projects.",
+          "• Fostered a collaborative environment, encouraging the generation of innovative ideas and creative solutions to meet client requirements.",
+          "Exceptional Design Craftsmanship:",
+          "• Developed visually appealing and user-friendly interfaces, improving customer experiences and contributing to a 20% higher client satisfaction rate.",
+          "• Ensured seamless integration of design aesthetics and usability, resulting in a cohesive and intuitive user interface design.",
+          "UI/UX Consistency and Documentation",
+          "Comprehensive Design Guidelines:",
+          "• Maintained platform-wide consistency by meticulously documenting use cases and UI elements, ensuring a standardized user experience throughout the application.",
+          "• Developed comprehensive design guidelines that improved collaboration among team members and expedited the design process by 30%.",
+          "Agile/Scrum Collaboration and Technical Innovation",
+          "Project-Specific Sprint Planning:",
+          "• Collaborated with cross-functional teams to define project-specific sprint goals and plan iterations, aligning design objectives with project milestones and stakeholder expectations.",
+          "• Employed technical proficiency to propose and implement innovative strategies, resulting in a 15% reduction in development time while maintaining design integrity.",
+          "Effective Cross-Functional Communication:",
+          "• Worked seamlessly with diverse team members, demonstrating strong communication and collaboration skills. Ensured the integration of design concepts into interactive web interfaces, enhancing the overall user experience."
+        ]
+      }
+    ],
 
-    "work 2": {
-      "company": "Stone & Brier",
-      "title": "UI/UX Designer",
-      "years": "January 2017 - January 2019",
-      "description": [
-        "Creative Direction and Client Collaboration",
-        "Enhanced User Engagement:",
-        "• Led brainstorming meetings and creative sessions for 3-5 branding and visual design clients, resulting in a 25% increase in user engagement across multiple projects.",
-        "• Fostered a collaborative environment, encouraging the generation of innovative ideas and creative solutions to meet client requirements.",
-        "Exceptional Design Craftsmanship:",
-        "• Developed visually appealing and user-friendly interfaces, improving customer experiences and contributing to a 20% higher client satisfaction rate.",
-        "• Ensured seamless integration of design aesthetics and usability, resulting in a cohesive and intuitive user interface design.",
-        "UI/UX Consistency and Documentation",
-        "Comprehensive Design Guidelines:",
-        "• Maintained platform-wide consistency by meticulously documenting use cases and UI elements, ensuring a standardized user experience throughout the application.",
-        "• Developed comprehensive design guidelines that improved collaboration among team members and expedited the design process by 30%.",
-        "Agile/Scrum Collaboration and Technical Innovation",
-        "Project-Specific Sprint Planning:",
-        "• Collaborated with cross-functional teams to define project-specific sprint goals and plan iterations, aligning design objectives with project milestones and stakeholder expectations.",
-        "• Employed technical proficiency to propose and implement innovative strategies, resulting in a 15% reduction in development time while maintaining design integrity.",
-        "Effective Cross-Functional Communication:",
-        "• Worked seamlessly with diverse team members, demonstrating strong communication and collaboration skills. Ensured the integration of design concepts into interactive web interfaces, enhancing the overall user experience."
-      ]
-    },
-
-    "education 1": {
-      "school": "Fullstack Academy",
-      "degree": "Web Development Bootcamp",
-      "graduated": "October 2023",
-      "description": [
-        "*Back-end development proficiency: Node.js, Express, Services, and APIs (REST API integration).",
-        "*Front-end development proficiency: HTML5, CSS, JavaScript, Razor, Twig, Typescript, Bootstrap, React, Angular, Vue, jQuery, and WebXR.",
-        "*Data systems proficiency: SQLite, PostgreSQL, Sequelize, MySQL, MongoDB.",
-        "*Object-oriented programming and full-stack applications."
-      ]
-    },
-    "education 2": {
-      "school": "Rocky Mountain College of Art + Design (RMCAD)",
-      "degree": "Bachelor of Fine Arts in Illustration (BFA Illustration)",
-      "graduated": "June 2016",
-      "description": "The Bachelor of Fine Arts in Illustration program at Rocky Mountain College of Art + Design (RMCAD) offers a comprehensive curriculum that combines graphic design and illustration. The program requires students to complete at least 123 credits, including core courses in liberal arts, illustration courses, studio art, and art history. The curriculum covers a wide range of mediums and techniques, including metalworking, ceramics, painting, drawing, printmaking, photography, and new media, alongside traditional and experimental media. The program aims to equip students with fundamental skills, craftsmanship, and techniques used in visual art, fostering their creative expression, personal artistic style, and understanding of the role of art in society. Upon completion, students are expected to have acquired a hybrid degree that provides them with the skills and knowledge to become successful illustrators, as well as a comprehensive understanding of the role of art in relation to other disciplines and contemporary life."
-    },
+    "education": [
+      {
+        "school": "Fullstack Academy",
+        "degree": "Web Development Bootcamp",
+        "graduated": "October 2023",
+        "description": [
+          "*Back-end development proficiency: Node.js, Express, Services, and APIs (REST API integration).",
+          "*Front-end development proficiency: HTML5, CSS, JavaScript, Razor, Twig, Typescript, Bootstrap, React, Angular, Vue, jQuery, and WebXR.",
+          "*Data systems proficiency: SQLite, PostgreSQL, Sequelize, MySQL, MongoDB.",
+          "*Object-oriented programming and full-stack applications."
+        ]
+      },
+      {
+        "school": "Rocky Mountain College of Art + Design (RMCAD)",
+        "degree": "Bachelor of Fine Arts in Illustration (BFA Illustration)",
+        "graduated": "June 2016",
+        "description": "The Bachelor of Fine Arts in Illustration program at Rocky Mountain College of Art + Design (RMCAD) offers a comprehensive curriculum that combines graphic design and illustration. The program requires students to complete at least 123 credits, including core courses in liberal arts, illustration courses, studio art, and art history. The curriculum covers a wide range of mediums and techniques, including metalworking, ceramics, painting, drawing, printmaking, photography, and new media, alongside traditional and experimental media. The program aims to equip students with fundamental skills, craftsmanship, and techniques used in visual art, fostering their creative expression, personal artistic style, and understanding of the role of art in society. Upon completion, students are expected to have acquired a hybrid degree that provides them with the skills and knowledge to become successful illustrators, as well as a comprehensive understanding of the role of art in relation to other disciplines and contemporary life."
+      }
+    ],
 
     "skills": [
       {

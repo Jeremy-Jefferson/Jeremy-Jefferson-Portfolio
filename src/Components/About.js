@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import Fade from "react-reveal";
-import Bio from "./props/bio"; // Import the Bio component
 
 class About extends Component {
   render() {
@@ -8,6 +7,7 @@ class About extends Component {
 
     const name = this.props.data.name;
     const profilepic = "images/" + this.props.data.image;
+    const bio = this.props.data.bio;
     const city = this.props.data.address.city;
     const state = this.props.data.address.state;
     const zip = this.props.data.address.zip;
@@ -23,7 +23,9 @@ class About extends Component {
               <img className="profile-pic" src={profilepic} alt="JEJ profile" />
             </div>
             <div className="nine columns main-col">
-              <Bio /> {/* Use the Bio component here */}
+              <h2>About Me</h2>
+
+              <p>{bio}</p>
               <div className="row">
                 <div className="columns contact-details">
                   <h2>Contact Details</h2>
