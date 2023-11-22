@@ -1,19 +1,18 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Jeremy E. Jefferson",
+    "description":"Front-End Developer ⫸ Mastery in React, JavaScript, HTML, & CSS | Specialist in UI/UX Design | Adept at TypeScript, Node.js, Express, AngularJS, Vue.js, & MySQL",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "email": "jeremyejefferson@gmail.com",
+    "phone": "832-574-9862",
+    "github":"https://github.com/Jeremy-Jefferson",
+    "project":"https://github.com/Jeremy-Jefferson/Jeremy-Jefferson-Portfolio",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city":"Houston",
+      "state":"Texas",
+      "zip": "77027"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
