@@ -46,23 +46,7 @@
   },
   "resume": {
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
-    "education": [
-      {
-        "school": "Fullstack Academy",
-        "degree": "Fullstack Academy x Amazon Career Choice Web Development Bootcamp",
-        "graduated": "October 2023",
-        "description": "-Back-end development proficiency: Node.js, Express, Services, and APIs (REST API integration).
-        -Front-end development proficiency: HTML5, CSS, JavaScript, Razor, Twig, Typescript, Bootstrap, React, Angular, Vue, jQuery, and WebXR.
-        -Data systems proficiency: SQLite, PostgreSQL, Sequelize, MySQL, MongoDB.
-        -Object-oriented programming and full-stack applications."
-      }
-      {
-        "school": "Rocky Mountain College of Art + Design (RMCAD)",
-        "degree": "Bachelor of Fine Arts in Illustration (BFA Illustration)",
-        "graduated": "June 2016",
-        "description": "The Bachelor of Fine Arts in Illustration program at Rocky Mountain College of Art + Design (RMCAD) offers a comprehensive curriculum that combines graphic design and illustration. The program requires students to complete at least 123 credits, including core courses in liberal arts, illustration courses, studio art, and art history. The curriculum covers a wide range of mediums and techniques, including metalworking, ceramics, painting, drawing, printmaking, photography, and new media, alongside traditional and experimental media. The program aims to equip students with fundamental skills, craftsmanship, and techniques used in visual art, fostering their creative expression, personal artistic style, and understanding of the role of art in society. Upon completion, students are expected to have acquired a hybrid degree that provides them with the skills and knowledge to become successful illustrators, as well as a comprehensive understanding of the role of art in relation to other disciplines and contemporary life."
-      }
-    ],
+
     "work": [
       {
         "company": "Awesome Design Studio",
@@ -75,6 +59,26 @@
         "title": "Junior bug fixer",
         "years": "March 2017 - February 2018",
         "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+
+    "education": [
+      {
+        "school": "Fullstack Academy",
+        "degree": "Web Development Bootcamp",
+        "graduated": "October 2023",
+        "description": [
+          "*Back-end development proficiency: Node.js, Express, Services, and APIs (REST API integration).",
+          "*Front-end development proficiency: HTML5, CSS, JavaScript, Razor, Twig, Typescript, Bootstrap, React, Angular, Vue, jQuery, and WebXR.",
+          "*Data systems proficiency: SQLite, PostgreSQL, Sequelize, MySQL, MongoDB.",
+          "*Object-oriented programming and full-stack applications."
+        ]
+      },
+      {
+        "school": "Rocky Mountain College of Art + Design (RMCAD)",
+        "degree": "Bachelor of Fine Arts in Illustration (BFA Illustration)",
+        "graduated": "June 2016",
+        "description": "The Bachelor of Fine Arts in Illustration program at Rocky Mountain College of Art + Design (RMCAD) offers a comprehensive curriculum that combines graphic design and illustration. The program requires students to complete at least 123 credits, including core courses in liberal arts, illustration courses, studio art, and art history. The curriculum covers a wide range of mediums and techniques, including metalworking, ceramics, painting, drawing, printmaking, photography, and new media, alongside traditional and experimental media. The program aims to equip students with fundamental skills, craftsmanship, and techniques used in visual art, fostering their creative expression, personal artistic style, and understanding of the role of art in society. Upon completion, students are expected to have acquired a hybrid degree that provides them with the skills and knowledge to become successful illustrators, as well as a comprehensive understanding of the role of art in relation to other disciplines and contemporary life."
       }
     ],
     "skills": [
