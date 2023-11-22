@@ -20,11 +20,7 @@ class About extends Component {
         <Fade duration={1000}>
           <div className="row">
             <div className="three columns">
-              <img
-                className="profile-pic"
-                src={profilepic}
-                alt="JEJ profile"
-              />
+              <img className="profile-pic" src={profilepic} alt="JEJ profile" />
             </div>
             <div className="nine columns main-col">
               <Bio /> {/* Use the Bio component here */}
@@ -35,7 +31,8 @@ class About extends Component {
                     <span>{name}</span>
                     <br />
 
-                    <span>{city} {state}, {zip}
+                    <span>
+                      {city} {state}, {zip}
                     </span>
                     <br />
                     <span>{phone}</span>
@@ -53,8 +50,8 @@ class About extends Component {
               </p>
             </div>
           </div>
-      </Fade>
-      </section >
+        </Fade>
+      </section>
     );
   }
 }
