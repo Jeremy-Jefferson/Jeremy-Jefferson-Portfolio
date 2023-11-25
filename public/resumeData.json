@@ -4,7 +4,7 @@
     "description": "Front-End Developer ⫸ Mastery in React, JavaScript, HTML, & CSS | Specialist in UI/UX Design | Adept at TypeScript, Node.js, Express, AngularJS, Vue.js, & MySQL",
     "image": "profilepic.jpg",
     "bio": "Innovative and driven front-end developer with a background in illustration and over 4+ years of experience, specializing in UI/UX design and project management. Possesses an indomitable foundation in front-end development through Fullstack Academy training, eager to apply a creative edge and technical expertise with meticulous attention to detail to contribute to project success. Highly adaptable and capable self-starter, able to move seamlessly throughout the development lifecycle—including developing strategies, wireframes, mockups, branding guidelines, prototyping solutions, testing criteria (A/B testing), and knowledge transfer. Notable contributions include developing responsive websites for 40+ clients and tailoring each site to meet the unique branding and user experience requirements of individual clients. Implementing isomorphic React and Node.js for 40+ web applications, significantly decreasing load times by 58% and enhancing overall user experience. Optimizing code for rendering components on UI, reducing HTTP requests by 70% for applications dealing with extensive data sets, such as e-commerce platforms and data analytics tools. Utilizing Object Oriented Programming concepts to develop reusable UI components, enhancing efficiency across various web applications. Spearheaded Agile/Scrum practices in multiple web development projects, conducting daily standup meetings to ensure transparent communication, track progress, and swiftly address challenges.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage": "Contact Me.",
     "email": "jeremyejefferson@gmail.com",
     "phone": "832-574-9862",
     "github": "https://github.com/Jeremy-Jefferson",
@@ -14,7 +14,7 @@
       "state": "Texas",
       "zip": "77027"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "https://github.com/Jeremy-Jefferson",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
@@ -46,7 +46,7 @@
   },
 
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "My Core Tech Stack.",
 
     "work": [
       {
@@ -115,15 +115,15 @@
     "skills": [
       {
         "name": "JavaScript",
-        "level": "60%"
+        "level": "95%"
       },
       {
         "name": "ReactJS",
-        "level": "55%"
+        "level": "95%"
       },
       {
         "name": "HTML & CSS",
-        "level": "50%"
+        "level": "98%"
       },
       {
         "name": "TypeScript",
@@ -131,19 +131,31 @@
       },
       {
         "name": "Node",
-        "level": "80%"
+        "level": "95%"
       },
       {
         "name": "Express",
-        "level": "50%"
+        "level": "92%"
       },
       {
         "name": "AngularJS",
-        "level": "80%"
+        "level": "90%"
       },
       {
         "name": "Vue.js",
-        "level": "80%"
+        "level": "85%"
+      },
+      {
+        "name": "MySQL",
+        "level": "90%"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "92%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "85%"
       }
     ]
   },
@@ -151,76 +163,16 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "01.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Stone & Brier General Store",
+        "description": "An e-commerce store titled Stone & Brier General Store. created with create-react-app and ChakraUI, uses https://fakestoreapi.com/",
+        "image": "S&B.png",
+        "url": "https://stone-and-brier-general-store.vercel.app/Home"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "02.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "03.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "04.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "05.jpg",
-        "url": "http://www.smirkspace.com"
-      },
-      {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "06.jpg",
-        "url": "https://www.canadianwanderlust.com"
-      },
-      {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "01.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "02.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "03.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "04.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "05.jpg",
-        "url": "http://www.smirkspace.com"
-      },
-      {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "06.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Dictonary React App",
+        "category": "Dictionary React app with word search, phonetic pronunciation function, a word of the day, as well as a quote of the day. Results show multiple definitions, synonyms, word classes, and example sentences. Uses Dictionary API.",
+        "image": "Dictionary.png",
+        "url": "https://dictionary-react-app-rho.vercel.app/"
       }
     ]
   }
