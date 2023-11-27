@@ -94,7 +94,7 @@
       {
         "school": "Fullstack Academy",
         "degree": "Web Development Bootcamp",
-        "graduated": "October 2023",
+        "graduated": "OCTOBER 2023",
         "description": [
           "*Back-end development proficiency: Node.js, Express, Services, and APIs (REST API integration).",
           "*Front-end development proficiency: HTML5, CSS, JavaScript, Razor, Twig, Typescript, Bootstrap, React, Angular, Vue, jQuery, and WebXR.",
@@ -104,8 +104,8 @@
       },
       {
         "school": "Rocky Mountain College of Art + Design (RMCAD)",
-        "degree": "Bachelor of Fine Arts in Illustration (BFA Illustration)",
-        "graduated": "June 2016",
+        "degree": "Bachelor of Fine Arts (BFA) - Illustration",
+        "graduated": "JUNE 2016",
         "description": [
           "My journey through RMCAD's BFA Illustration program was a vibrant blend of traditional craftsmanship and innovative creativity. Across a dynamic curriculum spanning 123 credits, I honed my skills in graphic design, illustration, and visual storytelling.",
           "This program immersed me in a rich tapestry of mediums—from classic techniques like painting, drawing, and printmaking to explorations in metalworking, ceramics, photography, and emerging new media. It nurtured my creative voice and cultivated a deep appreciation for the expressive power of art.",
