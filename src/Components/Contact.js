@@ -11,20 +11,23 @@ class Contact extends Component {
     const zip = this.props.data.address.zip;
     const phone = this.props.data.phone;
     const email = this.props.data.email;
-    const message = this.props.data.contactmessage;
 
     return (
       <section id="contact">
         <Fade bottom duration={1000}>
           <div className="row section-head">
             <div className="two columns header-col">
-              <h1>
-                <span>Get In Touch.</span>
-              </h1>
+            <h1>
+                <span>Get In Touch</span>
+            </h1>
             </div>
 
             <div className="ten columns">
-              <p className="lead">{message}</p>
+              <h2>
+            Get in touch!
+                <span> Whether you've got a query or simply want to discuss art, design, or tech, </span>
+              shoot me a message!
+              </h2>
             </div>
           </div>
         </Fade>
@@ -106,15 +109,27 @@ class Contact extends Component {
           <Slide right duration={1000}>
             <aside className="four columns footer-widgets">
               <div className="widget widget_contact">
-                <h4>Phone & Email</h4>
+                <h4>MY CONTACT INFO</h4>
                 <p className="address">
-                  {name}
+                  <span>
+                    📛 {name} 📛
+                    <br />
+                  </span>
                   <br />
-                  {city}, {state} {zip}
+                  <span>
+                    📍 FIND ME HERE 📍
+                    <br />
+                    {city}, {state} {zip}
+                    <br />
+                  </span>
                   <br />
-                  <span>📧: {email}</span>
-                  <br />
-                  <span>📞: {phone}</span>
+                  <span>
+                  📧 SAY HELLO 📞
+                    <br />
+                    {email}
+                    <br />
+                    {phone}
+                  </span>
                 </p>
               </div>
             </aside>
