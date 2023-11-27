@@ -290,32 +290,32 @@ ul#nav li.current a {
 
 #resume h1 {
   font:
-    25px/24px "opensans-bold",
-    sans-serif;
+   30px/30px "opensans-bold",
+   sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
   color: #fff;
 }
 #resume h1 span {
-  border-bottom: 3px solid #ff2247;
-  text-shadow: 0px 4px 4px #262626;
+  border-bottom: 5px solid #ff2247;
+  text-shadow: 0px 3px 3px #262626;
   padding-bottom: 6px;
 }
 #resume h3 {
   font:
-    25px/30px "opensans-bold",
+    30px/30px "opensans-bold",
     sans-serif;
-  color: #000000;
+    color:#ff2247;
+    text-shadow: 0px 3px 3px #262626;
 }
 
 .skillmessage {
   font:
-    30px/24px "opensans-bold",
+    30px/30px "opensans-bold",
     sans-serif;
   text-transform: uppercase;
   color: #ff2247;
-  /* -webkit-text-stroke: .5px white; */
-  text-shadow: 0px 4px 4px #262626;
+  text-shadow: 0px 3px 3px #262626;
 }
 
 #resume .header-col {
@@ -329,11 +329,11 @@ ul#nav li.current a {
 .work {
   margin-bottom: 48px;
   padding-bottom: 24px;
-  border-bottom: 3px solid #ff2247;
+  border-bottom: 5px solid #ff2247;
 }
 #resume .info {
   font:
-    20px/24px "librebaskerville-bold",
+    24px/24px "librebaskerville-bold",
     serif;
   color: #fff;
   margin-bottom: 18px;
@@ -347,7 +347,8 @@ ul#nav li.current a {
   font:
     20px/24px "opensans-bold",
     sans-serif;
-  color: #000000;
+  color: #ff2247;
+  text-shadow: 0px 2px 2px #262626;
   margin-top: 6px;
 }
 
@@ -368,7 +369,7 @@ ul#nav li.current a {
 .bars li {
   position: relative;
   margin-bottom: 60px;
-  background: #333;
+  background: #333333;
   height: 42px;
   border-radius: 0px;
 }
@@ -390,7 +391,7 @@ ul#nav li.current a {
 
   margin: 0;
   padding-right: 24px;
-  background: #313131;
+  background: #333333;
   display: inline-block;
   height: 42px;
   line-height: 42px;
