@@ -3,7 +3,7 @@
     "name": "Jeremy E. Jefferson",
     "description": "Front-End Developer ⫸ Mastery in React, JavaScript, HTML, & CSS | Specialist in UI/UX Design | Adept at TypeScript, Node.js, Express, AngularJS, Vue.js, & MySQL",
     "image": "profilepic.jpg",
-    "bio": "Innovative and driven front-end developer with a background in illustration and over 4+ years of experience, specializing in UI/UX design and project management. Possesses an indomitable foundation in front-end development through Fullstack Academy training, eager to apply a creative edge and technical expertise with meticulous attention to detail to contribute to project success. Highly adaptable and capable self-starter, able to move seamlessly throughout the development lifecycle—including developing strategies, wireframes, mockups, branding guidelines, prototyping solutions, testing criteria (A/B testing), and knowledge transfer. Notable contributions include developing responsive websites for 40+ clients and tailoring each site to meet the unique branding and user experience requirements of individual clients. Implementing isomorphic React and Node.js for 40+ web applications, significantly decreasing load times by 58% and enhancing overall user experience. Optimizing code for rendering components on UI, reducing HTTP requests by 70% for applications dealing with extensive data sets, such as e-commerce platforms and data analytics tools. Utilizing Object Oriented Programming concepts to develop reusable UI components, enhancing efficiency across various web applications. Spearheaded Agile/Scrum practices in multiple web development projects, conducting daily standup meetings to ensure transparent communication, track progress, and swiftly address challenges.",
+    "bio": "Innovative and driven Front-End Developer with a background in illustration and over 4+ years of experience, specializing in UI/UX design and project management, mastery in React, JavaScript, HTML, and CSS, adept at TypeScript, Node.js, Express, AngularJS, Vue.js, and MySQL. Possesses an indomitable foundation in full stack development through Fullstack Academy training, eager to apply a creative edge and technical expertise with meticulous attention to detail to contribute to project success. Endeavors to utilize keen interpersonal skills and efficacious communication to be collaborative and task-driven. Highly adaptable and capable self-starter, able to move seamlessly throughout the development life cycle—including developing strategies, wire-frames, mock-ups, branding guidelines, prototyping solutions, testing criteria (A/B testing), and knowledge transfer.",
     "contactmessage": "Contact Me.",
     "email": "jeremyejefferson@gmail.com",
     "phone": "832-574-9862",
@@ -15,7 +15,7 @@
       "zip": "77027"
     },
     "website": "https://github.com/Jeremy-Jefferson",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1DVG5JBcIwEyN8kItzN1zq7HGNJd2sLO2/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -44,10 +44,8 @@
       }
     ]
   },
-
   "resume": {
     "skillmessage": "My Core Tech Stack.",
-
     "work": [
       {
         "company": "Organized Systems",
@@ -91,7 +89,6 @@
         ]
       }
     ],
-
     "education": [
       {
         "school": "Fullstack Academy",
@@ -111,7 +108,6 @@
         "description": "The Bachelor of Fine Arts in Illustration program at Rocky Mountain College of Art + Design (RMCAD) offers a comprehensive curriculum that combines graphic design and illustration. The program requires students to complete at least 123 credits, including core courses in liberal arts, illustration courses, studio art, and art history. The curriculum covers a wide range of mediums and techniques, including metalworking, ceramics, painting, drawing, printmaking, photography, and new media, alongside traditional and experimental media. The program aims to equip students with fundamental skills, craftsmanship, and techniques used in visual art, fostering their creative expression, personal artistic style, and understanding of the role of art in society. Upon completion, students are expected to have acquired a hybrid degree that provides them with the skills and knowledge to become successful illustrators, as well as a comprehensive understanding of the role of art in relation to other disciplines and contemporary life."
       }
     ],
-
     "skills": [
       {
         "name": "JavaScript",
@@ -159,7 +155,6 @@
       }
     ]
   },
-
   "portfolio": {
     "projects": [
       {
