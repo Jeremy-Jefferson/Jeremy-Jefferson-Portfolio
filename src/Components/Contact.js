@@ -17,16 +17,20 @@ class Contact extends Component {
         <Fade bottom duration={1000}>
           <div className="row section-head">
             <div className="two columns header-col">
-            <h1>
+              <h1>
                 <span>Get In Touch</span>
-            </h1>
+              </h1>
             </div>
 
             <div className="ten columns">
               <h2>
-            Get in touch!
-                <span> Whether you've got a query or simply want to discuss art, design, or tech, </span>
-              shoot me a message!
+                Get in touch!
+                <span>
+                  {" "}
+                  Whether you've got a query or simply want to discuss art,
+                  design, or tech,{" "}
+                </span>
+                shoot me a message!
               </h2>
             </div>
           </div>
@@ -124,7 +128,7 @@ class Contact extends Component {
                   </span>
                   <br />
                   <span>
-                  📧 SAY HELLO 📞
+                    📧 SAY HELLO 📞
                     <br />
                     {email}
                     <br />

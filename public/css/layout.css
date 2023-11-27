@@ -277,6 +277,7 @@ ul#nav li.current a {
   overflow: hidden;
   font-size: 18px;
   color: #fff;
+  text-shadow: 0px 1px 1px #333333;
 }
 
 #resume a,
@@ -305,6 +306,8 @@ ul#nav li.current a {
   font:
     30px/30px "opensans-bold",
     sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
   color: #ff2247;
   text-shadow: 0px 3px 3px #262626;
 }
@@ -336,6 +339,7 @@ ul#nav li.current a {
     24px/24px "librebaskerville-bold",
     serif;
   color: #fff;
+  text-shadow: 0px 1px 1px ##333333;
   margin-bottom: 18px;
   margin-top: 9px;
 }
@@ -345,8 +349,10 @@ ul#nav li.current a {
 }
 #resume .date {
   font:
-    20px/24px "opensans-bold",
+    24px/24px "opensans-bold",
     sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
   color: #ff2247;
   text-shadow: 0px 2px 2px #262626;
   margin-top: 6px;
@@ -753,15 +759,16 @@ ul#nav li.current a {
 }
 
 #contact h2 {
-   font:30px/30px "opensans-semibold",
-   sans-serif;
+  font:
+    30px/30px "opensans-semibold",
+    sans-serif;
   color: white;
- padding-right: 3%;
+  padding-right: 3%;
 }
 
 #contact h2 span {
-   color:#ff2247;
- }
+  color: #ff2247;
+}
 
 #contact h4 {
   font:
@@ -774,7 +781,7 @@ ul#nav li.current a {
   font:
     30px/30px "opensans-semibold",
     sans-serif;
-   color: #ff2247;
+  color: #ff2247;
   padding-right: 3%;
 }
 #contact .header-col {
@@ -971,5 +978,5 @@ footer .social-links li:first-child {
 }
 .github-btn {
   background-color: #34495e51 !important;
-  border
+  border: 2px, white;
 }
