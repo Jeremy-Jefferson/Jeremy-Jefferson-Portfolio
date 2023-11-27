@@ -7,7 +7,8 @@ class About extends Component {
 
     const name = this.props.data.name;
     const profilepic = "images/" + this.props.data.image;
-    const bio = this.props.data.bio;
+    const bio1 = this.props.data.bio1;
+    const bio2 = this.props.data.bio2;
     const city = this.props.data.address.city;
     const state = this.props.data.address.state;
     const zip = this.props.data.address.zip;
@@ -24,15 +25,14 @@ class About extends Component {
             </div>
             <div className="nine columns main-col">
               <h2>About Me</h2>
-
-              <p>{bio}</p>
+              <p>{bio1}</p>
+              <p>{bio2}</p>
               <div className="row">
                 <div className="columns contact-details">
                   <h2>Contact Details</h2>
                   <p className="address">
                     <span>{name}</span>
                     <br />
-
                     <span>
                       {city} {state}, {zip}
                     </span>
@@ -47,7 +47,8 @@ class About extends Component {
             <div className="columns download">
               <p>
                 <a href={resumeDownload} className="button">
-                  <i className="fa fa-download"></i>Download Resume
+                  <i className="fa fa-download"></i>
+                  Download Resume
                 </a>
               </p>
             </div>
