@@ -111,7 +111,7 @@ header .scrolldown a {
   display: block;
   height: 42px;
   width: 42px;
-  font-size: 42px;
+  font-size: 60px;
   line-height: 42px;
   color: #fff;
   border-radius: 100%;
@@ -290,8 +290,8 @@ ul#nav li.current a {
 
 #resume h1 {
   font:
-   30px/30px "opensans-bold",
-   sans-serif;
+    30px/30px "opensans-bold",
+    sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
   color: #fff;
@@ -305,8 +305,8 @@ ul#nav li.current a {
   font:
     30px/30px "opensans-bold",
     sans-serif;
-    color:#ff2247;
-    text-shadow: 0px 3px 3px #262626;
+  color: #ff2247;
+  text-shadow: 0px 3px 3px #262626;
 }
 
 .skillmessage {
@@ -375,7 +375,7 @@ ul#nav li.current a {
 }
 .bars li em {
   font:
-    18px "opensans-bold",
+    18px "opensans-semibold",
     sans-serif;
   color: #fff;
   text-transform: uppercase;
@@ -404,28 +404,34 @@ ul#nav li.current a {
 
 #portfolio {
   background: #333333;
-  padding-top: 90px;
+  padding-top: 60px;
   padding-bottom: 60px;
 }
 #portfolio h1 {
   font:
-    25px/24px "opensans-semibold",
+    45px/45px "opensans-bold",
     sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
   text-align: center;
   margin-bottom: 48px;
-  color: #fff;
+  color: #ff2247;
+  text-shadow: 0px 4px 4px #0f0f0f;
 }
 
 /* Portfolio Content */
 #portfolio-wrapper .columns {
-  margin-bottom: 36px;
+  margin-bottom: 30px;
 }
 .portfolio-item .item-wrap {
-  background: #fff;
+  background: #585858;
   overflow: hidden;
   position: relative;
+  color: #fff;
+  font:
+    20px/20px "opensans-semibold",
+    sans-serif;
+  padding: 10px 0px;
 
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -497,7 +503,7 @@ ul#nav li.current a {
   font:
     12px/18px "opensans-light",
     sans-serif;
-  color: #c6c7c7;
+  color: #fff;
   margin-bottom: 0;
 }
 
@@ -706,8 +712,8 @@ ul#nav li.current a {
 
 #contact {
   background: #262626;
-  padding-top: 96px;
-  padding-bottom: 102px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   color: #fff;
 }
 #contact .section-head {
