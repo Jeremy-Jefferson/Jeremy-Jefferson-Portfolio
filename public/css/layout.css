@@ -258,8 +258,8 @@ ul#nav li.current a {
   text-decoration: none;
 }
 #about .download .button:hover {
-   background-color: #ff2247;
-   color: #fff;
+  background-color: #ff2247;
+  color: #fff;
 }
 #about .download .button i {
   margin-right: 15px;
@@ -275,8 +275,8 @@ ul#nav li.current a {
   padding-top: 90px;
   padding-bottom: 72px;
   overflow: hidden;
-  font-size: medium;
-  color: #fff
+  font-size: 18px;
+  color: #fff;
 }
 
 #resume a,
@@ -304,6 +304,7 @@ ul#nav li.current a {
   font:
     25px/30px "opensans-bold",
     sans-serif;
+  color: #000000;
 }
 
 #resume .header-col {
@@ -321,7 +322,7 @@ ul#nav li.current a {
 }
 #resume .info {
   font:
-    18px/24px "librebaskerville-bold",
+    20px/24px "librebaskerville-bold",
     serif;
   color: #fff;
   margin-bottom: 18px;
@@ -333,8 +334,9 @@ ul#nav li.current a {
 }
 #resume .date {
   font:
-    18px/24px "opensans-regular",
+    20px/24px "opensans-bold",
     sans-serif;
+  color: #000000;
   margin-top: 6px;
 }
 
@@ -361,9 +363,9 @@ ul#nav li.current a {
 }
 .bars li em {
   font:
-    15px "opensans-bold",
+    18px "opensans-bold",
     sans-serif;
-  color: #313131;
+  color: #fff;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: normal;
@@ -796,8 +798,8 @@ ul#nav li.current a {
   margin-left: 26%;
 }
 #contact button.submit:hover {
-   background-color: #ff2247;
-   color: #fff;
+  background-color: #ff2247;
+  color: #fff;
 }
 #contact span.required {
   color: #ff2247;
@@ -837,7 +839,7 @@ ul#nav li.current a {
 footer {
   padding-top: 48px;
   margin-bottom: 48px;
-  color: #303030;
+  color: #333333;
   font-size: 14px;
   text-align: center;
   position: relative;
@@ -880,14 +882,14 @@ footer .copyright li:first-child:before {
 footer .social-links {
   margin: 18px 0 30px 0;
   padding: 0;
-  font-size: 30px;
+  font-size: 40px;
+  color: #ff2247;
 }
 footer .social-links li {
   display: inline-block;
   margin: 0;
   padding: 0;
   margin-left: 42px;
-  color: #ff2247;
 }
 
 footer .social-links li:first-child {
@@ -928,14 +930,15 @@ footer .social-links li:first-child {
   margin-right: 30px;
 }
 .social .btn {
-  padding-left: 30px;
-  padding-right: 30px;
+  color: #fff;
+  padding: 10px;
+  border-radius: 8px;
 }
 .social .btn i {
   margin-right: 15px;
 }
 .project-btn {
-  background-color: #1abc9c !important;
+  background-color: #ff2247 !important;
 }
 .github-btn {
   background-color: #34495e !important;

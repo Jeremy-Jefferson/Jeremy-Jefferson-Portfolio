@@ -49,8 +49,8 @@
     "skillmessage": "My Core Tech Stack.",
     "work": [
       {
-        "company": "Organized Systems",
-        "title": "Front-End Developer | UI/UX Designer",
+        "company": "Organized.Systems",
+        "title": "Front-End Developer",
         "years": "January 2016 - Present",
         "description": [
           "• Developed responsive websites for 40+ clients, tailoring each site to meet the unique branding and user experience requirements of individual clients.",
@@ -106,7 +106,12 @@
         "school": "Rocky Mountain College of Art + Design (RMCAD)",
         "degree": "Bachelor of Fine Arts in Illustration (BFA Illustration)",
         "graduated": "June 2016",
-        "description": "The Bachelor of Fine Arts in Illustration program at Rocky Mountain College of Art + Design (RMCAD) offers a comprehensive curriculum that combines graphic design and illustration. The program requires students to complete at least 123 credits, including core courses in liberal arts, illustration courses, studio art, and art history. The curriculum covers a wide range of mediums and techniques, including metalworking, ceramics, painting, drawing, printmaking, photography, and new media, alongside traditional and experimental media. The program aims to equip students with fundamental skills, craftsmanship, and techniques used in visual art, fostering their creative expression, personal artistic style, and understanding of the role of art in society. Upon completion, students are expected to have acquired a hybrid degree that provides them with the skills and knowledge to become successful illustrators, as well as a comprehensive understanding of the role of art in relation to other disciplines and contemporary life."
+        "description": [
+          "My journey through RMCAD's BFA Illustration program was a vibrant blend of traditional craftsmanship and innovative creativity. Across a dynamic curriculum spanning 123 credits, I honed my skills in graphic design, illustration, and visual storytelling.",
+          "This program immersed me in a rich tapestry of mediums—from classic techniques like painting, drawing, and printmaking to explorations in metalworking, ceramics, photography, and emerging new media. It nurtured my creative voice and cultivated a deep appreciation for the expressive power of art.",
+          "Beyond technique, RMCAD fostered a profound understanding of art's role in society. It honed my ability to translate ideas into visual narratives, emphasizing the fusion of artistic expression with societal relevance.",
+          "Ultimately, this program equipped me not just with the tools to excel as an illustrator but instilled a holistic appreciation for art's dynamic relationship with contemporary life and diverse disciplines."
+        ]
       }
     ],
     "skills": [
