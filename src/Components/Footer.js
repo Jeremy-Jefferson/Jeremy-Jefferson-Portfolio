@@ -23,13 +23,12 @@ class Footer extends Component {
               <ul className="social-links">{networks}</ul>
 
               <ul className="copyright">
-                <li>CRAFTED BY</li>
+                <li>BUILT BY ⚙️</li>
                 <li>
-                  {" "}
-                  <a title="Styleshout" href="http://www.styleshout.com/">
+                &copy; 2023{" "}
+                  <a title="JEJ" href="https://github.com/Jeremy-Jefferson">
                     Jeremy E. Jefferson
-                  </a>{" "}
-                  &copy; 2023
+                  </a>
                 </li>
               </ul>
             </div>
