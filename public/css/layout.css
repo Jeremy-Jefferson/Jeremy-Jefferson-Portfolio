@@ -21,7 +21,7 @@
 /* ------------------------------------------------------------------ */
 
 body {
-  background: #0f0f0f;
+  background: #121212;
 }
 
 /* ------------------------------------------------------------------ */
@@ -272,7 +272,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #resume {
-  background: #4e4e4e;
+  background: #4d4d4d;
   padding-top: 90px;
   padding-bottom: 72px;
   overflow: hidden;
@@ -376,7 +376,7 @@ ul#nav li.current a {
 .bars li {
   position: relative;
   margin-bottom: 60px;
-  background: #333333;
+  background: #3a3a3a;
   height: 42px;
   border-radius: 0px;
 }
