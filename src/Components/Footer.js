@@ -25,11 +25,11 @@ class Footer extends Component {
               <ul className="copyright">
                 <li>CRAFTED BY</li>
                 <li>
-                {" "}
+                  {" "}
                   <a title="Styleshout" href="http://www.styleshout.com/">
-                    Jeremy E. Jefferson 
-                  </a>
-                   &copy; 2023
+                    Jeremy E. Jefferson
+                  </a>{" "}
+                  &copy; 2023
                 </li>
               </ul>
             </div>

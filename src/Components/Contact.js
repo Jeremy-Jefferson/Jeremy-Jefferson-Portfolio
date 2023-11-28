@@ -27,8 +27,8 @@ class Contact extends Component {
                 Get in touch!
                 <span>
                   {" "}
-                  Whether you've got a query or simply want to discuss art,
-                  design, or tech,{" "}
+                  Whether you have a query or just want to discuss art, design,
+                  or technology,{" "}
                 </span>
                 shoot me a message!
               </h2>
@@ -116,23 +116,23 @@ class Contact extends Component {
                 <h4>MY CONTACT INFO</h4>
                 <p className="address">
                   <span>
-                    {name}
+                    👨🏽‍💻⇥ {name} ⇤👨🏽‍💻
                     <br />
                   </span>
                   <br />
                   <span>
-                    📍 FIND ME HERE 📍
+                    FIND ME HERE.📍
                     <br />
                     {city}, {state} {zip}
                     <br />
                   </span>
                   <br />
                   <span>
-                    SAY HELLO 📞 
+                    Say HELLO.🙋🏽‍♂️
                     <br />
-                    {email}
+                    📧 {email}
                     <br />
-                    {phone}
+                    ☎️ {phone}
                   </span>
                 </p>
               </div>
