@@ -376,7 +376,7 @@ ul#nav li.current a {
 .bars li {
   position: relative;
   margin-bottom: 60px;
-  background: #3a3a3a;
+  background: #303030;
   height: 42px;
   border-radius: 0px;
 }
@@ -752,7 +752,7 @@ ul#nav li.current a {
 }
 #contact h1:before {
   font-family: "FontAwesome";
-  content: "\f0e0";
+  content: "\f183";
   padding-right: 10px;
   font-size: 72px;
   line-height: 72px;
@@ -878,7 +878,7 @@ ul#nav li.current a {
 footer {
   padding-top: 48px;
   margin-bottom: 48px;
-  color: #676767;
+  color: #4d4d4d;
   font-size: 20px;
   text-align: center;
   position: relative;
@@ -948,7 +948,7 @@ footer .social-links li:first-child {
   display: block;
   width: 60px;
   height: 60px;
-  background-color: #676767;
+  background-color: #4d4d4d;
 
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
