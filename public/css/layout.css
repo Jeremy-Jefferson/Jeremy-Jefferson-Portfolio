@@ -984,8 +984,8 @@ footer .social-links li:first-child {
    color: #fff;
 }
 .github-btn {
-  background-color: #33333399 !important;
-  border: 2px solid white;
+  background-color: #333333b8;
+  border: 2px solid white; 
 }
 .github-btn:hover {
    background-color: #ff2247;

@@ -116,7 +116,7 @@ class Contact extends Component {
                 <h4>MY CONTACT INFO</h4>
                 <p className="address">
                   <span>
-                    📛 {name} 📛
+                    {name}
                     <br />
                   </span>
                   <br />
@@ -128,7 +128,7 @@ class Contact extends Component {
                   </span>
                   <br />
                   <span>
-                    📧 SAY HELLO 📞
+                    SAY HELLO 📞 
                     <br />
                     {email}
                     <br />
