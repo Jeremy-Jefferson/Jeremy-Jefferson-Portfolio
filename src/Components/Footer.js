@@ -23,7 +23,7 @@ class Footer extends Component {
               <ul className="social-links">{networks}</ul>
 
               <ul className="copyright">
-                <li>BUILT BY ⚙️</li>
+                <li className="built-by">BUILT BY </li>
                 <li>
                 &copy; 2023{" "}
                   <a title="JEJ" href="https://github.com/Jeremy-Jefferson">

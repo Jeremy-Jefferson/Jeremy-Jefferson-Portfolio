@@ -809,7 +809,7 @@ ul#nav li.current a {
 #contact select {
   padding: 10px 20px;
   color: #eee;
-  background: #333333;
+  background: #3a3a3a;
   margin-bottom: 42px;
   border: 0;
   outline: none;
@@ -903,6 +903,9 @@ footer .copyright li {
   margin: 0;
   padding: 0;
   line-height: 24px;
+}
+footer .built-by{
+  font-weight: bold;
 }
 .ie footer .copyright li {
   display: inline;
