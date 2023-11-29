@@ -113,22 +113,26 @@ class Contact extends Component {
           <Slide right duration={1000}>
             <aside className="four columns footer-widgets">
               <div className="widget widget_contact">
-                <h4>MY CONTACT INFO</h4>
+                <h4>CONTACT INFO</h4>
                 <p className="address">
                   <span>
-                    👨🏽‍💻⇥ {name} ⇤👨🏽‍💻
+                    {name}
                     <br />
                   </span>
                   <br />
-                  <span>
-                    FIND ME HERE.📍
-                    <br />
+                  <span>⇒
+                    <span className="find">
+                      FIND ME HERE.📍
+                    </span>
+                   <br />
                     {city}, {state} {zip}
-                    <br />
+                  <br />
                   </span>
                   <br />
-                  <span>
+                  <span>⇒
+                    <span className="hello">
                     Say HELLO.🙋🏽‍♂️
+                    </span>
                     <br />
                     📧 {email}
                     <br />

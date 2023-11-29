@@ -775,17 +775,18 @@ ul#nav li.current a {
 
 #contact h4 {
   font:
-    25px/25px "opensans-bold",
+    30px/30px "opensans-bold",
     sans-serif;
   color: #ff2247;
   margin-bottom: 6px;
 }
-#contact p.lead {
-  font:
-    30px/30px "opensans-semibold",
-    sans-serif;
-  color: #ff2247;
-  padding-right: 3%;
+#contact span.find {
+  font-weight: bold;
+  color:#ff2247;
+}
+#contact span.hello {
+  font-weight: bold;
+  color:#ff2247;
 }
 #contact .header-col {
   padding-top: 6px;
