@@ -84,24 +84,6 @@ header .banner-text hr {
   border-color: rgba(150, 150, 150, 0.1);
 }
 
-/* header social links */
-header .social {
-  margin: 24px 0;
-  padding: 0;
-  font-size: 30px;
-}
-header .social li {
-  display: inline-block;
-  margin: 0 15px;
-  padding: 0;
-}
-header .social li a {
-  color: #fff;
-}
-header .social li a:hover {
-  color: #ff2247;
-}
-
 /* scrolldown link */
 header .scrolldown a {
   position: absolute;
