@@ -72,7 +72,7 @@ class Header extends Component {
             <Fade bottom duration={2000}>
               <span className="social">
                 <a href={project} className="button btn project-btn">
-                  <i className="fa fa-book" /> PROJECT
+                  <i className="fa fa-code" /> PROJECT
                 </a>
               </span>
             </Fade>
