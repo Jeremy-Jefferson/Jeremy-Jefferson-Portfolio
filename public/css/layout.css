@@ -70,6 +70,7 @@ header .banner-text h3 {
     25px/1.9em "librebaskerville-regular",
     serif;
   color: #fff;
+  text-shadow: 0px 1px 1px #121212;
   margin: 0 auto;
   width: 70%;
 }
@@ -81,7 +82,7 @@ header .banner-text hr {
   width: 60%;
   margin: 18px auto 24px auto;
   border-color: #2f2d2e;
-  border-color: rgba(150, 150, 150, 0.1);
+  border-color: rgba(150, 150, 150, 0);
 }
 
 /* scrolldown link */
