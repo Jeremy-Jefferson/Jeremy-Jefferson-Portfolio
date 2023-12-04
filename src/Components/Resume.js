@@ -29,7 +29,10 @@ class Resume extends Component {
           <ul>
             {/* Mapping through education description */}
             {education.description.map((item, itemIndex) => (
-              <li key={itemIndex} dangerouslySetInnerHTML={{ __html: item }}></li>
+              <li
+                key={itemIndex}
+                dangerouslySetInnerHTML={{ __html: item }}
+              ></li>
             ))}
           </ul>
         </div>
@@ -49,7 +52,10 @@ class Resume extends Component {
           <ul>
             {/* Mapping through work description */}
             {work.description.map((item, itemIndex) => (
-              <li key={itemIndex} dangerouslySetInnerHTML={{ __html: item }}></li>
+              <li
+                key={itemIndex}
+                dangerouslySetInnerHTML={{ __html: item }}
+              ></li>
             ))}
           </ul>
         </div>

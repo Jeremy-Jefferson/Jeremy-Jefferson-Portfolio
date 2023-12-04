@@ -107,19 +107,17 @@ class Contact extends Component {
                 <h4>CONTACT INFO</h4>
                 {/* Contact information */}
                 <p className="detailss">
-                  <span>
-                    👨🏽‍💻 {name} 👨🏽‍💻
-                  </span>
+                  <span>👨🏽‍💻 {name} 👨🏽‍💻</span>
                   <span>
                     <br />
-                  <span className="find">
-                    FIND ME HERE.📍
-                    <br />
-                  </span>
+                    <span className="find">
+                      FIND ME HERE.📍
+                      <br />
+                    </span>
                     {city}, {state} {zip}
                     <br />
                     <br />
-                  <span className="hello">Say HELLO.🙋🏽‍♂️</span>
+                    <span className="hello">Say HELLO.🙋🏽‍♂️</span>
                     📧: {email}
                     <br />
                     ☎️: {phone}
