@@ -774,6 +774,10 @@ ul#nav li.current a {
 #contact .header-col {
   padding-top: 6px;
 }
+.detailss span {
+  display: block;
+  margin-bottom: 10px;
+}
 
 /* contact form */
 #contact form {
