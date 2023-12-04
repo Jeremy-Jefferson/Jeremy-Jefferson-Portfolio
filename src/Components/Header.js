@@ -7,7 +7,7 @@ class Header extends Component {
     if (!this.props.data) return null;
 
     // Extracting necessary data for header
-    const project = this.props.data.project; // Link to the project
+    const project = this.props.data.PROJECT; // Link to the project
     const name = this.props.data.name; // User's name
     const description = this.props.data.description; // Description about the user
 
@@ -80,6 +80,7 @@ class Header extends Component {
             {/* Displaying a project link with an icon */}
             <Fade bottom duration={2000}>
               <span className="social">
+                {/* Updated link to use project variable */}
                 <a href={project} className="button btn project-btn">
                   <i className="fa fa-code" /> PROJECT
                 </a>
