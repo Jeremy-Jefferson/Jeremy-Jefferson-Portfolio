@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Slide from "react-reveal"; // Importing the Slide component for animations
+import Slide from "react-awesome-reveal"; // Importing the Slide component for animations
 
 class Resume extends Component {
   // Function to generate a random color code

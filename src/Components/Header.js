@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Fade from "react-reveal"; // Importing the Fade component for animations
+import Fade from "react-awesome-reveal"; // Importing the Fade component for animations
 
 class Header extends Component {
   render() {

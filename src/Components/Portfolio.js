@@ -1,7 +1,7 @@
 // Importing necessary components and libraries from React
 import React, { Component } from "react";
 import Zmage from "react-zmage"; // Importing Zmage for image display
-import Fade from "react-reveal/Fade"; // Importing Fade for animations
+import Fade from "react-awesome-reveal"; // Importing Fade for animations
 
 // Creating a Portfolio component that extends React's Component class
 class Portfolio extends Component {

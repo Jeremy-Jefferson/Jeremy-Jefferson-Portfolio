@@ -1,6 +1,6 @@
 // Importing necessary components and libraries from React
 import React, { Component } from "react";
-import Fade from "react-reveal"; // Importing Fade for animations
+import Fade from "react-awesome-reveal"; // Importing Fade for animations
 
 // Creating an About component that extends React's Component class
 class About extends Component {

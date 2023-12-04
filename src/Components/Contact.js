@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Fade, Slide } from "react-reveal"; // Importing Fade and Slide for animations
+import { Fade, Slide } from "react-awesome-reveal"; // Importing Fade and Slide for animations
 
 class Contact extends Component {
   render() {
