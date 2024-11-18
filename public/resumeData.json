@@ -3,9 +3,9 @@
     "name": "Jeremy E. Jefferson",
     "description": "Front-End Developer ⫸ Mastery in React, JavaScript, HTML, & CSS | Specialist in UI/UX Design | Adept at TypeScript, Node.js, Express, AngularJS, Vue.js, & MySQL",
     "image": "profilepic.jpg",
-    "bio1": "Innovative and driven front-end developer with a background in illustration and over 4+ years of experience, specializing in UI/UX design and project management, mastery in React, JavaScript, HTML, and CSS, adept at TypeScript, Node.js, Express, AngularJS, Vue.js, and MySQL. Possesses an indomitable foundation in front-end development through Fullstack Academy training, eager to apply a creative edge and technical expertise with meticulous attention to detail to contribute to project success. Endeavors to utilize keen interpersonal skills and efficacious communication to be collaborative and task-driven. Highly adaptable and capable self-starter, able to move seamlessly throughout the development lifecycle—including developing strategies, wireframes, mockups, branding guidelines, prototyping solutions, testing criteria (A/B testing), and knowledge transfer.",
+    "bio1": "With a BFA in Illustration from RMCAD, over three years in Front-End Development, and five years in UI/UX Design, I bring a rare fusion of artistic vision and technical expertise. My UI/UX design and project management skills are underpinned by advanced command of React, JavaScript, HTML, CSS, and proficiency across TypeScript, Node.js, Express, AngularJS, Vue.js, and MySQL. Fullstack Academy enhanced my web development capabilities, enabling me to combine creativity and technical precision for project excellence. Committed to user-centric design, I leverage industry-standard tools—AEM, Adobe Creative Cloud (Photoshop, Illustrator), Figma, Sketch, and InVision—to create impactful designs that drive business goals. Anchored in usability principles and core web technologies, I aim to seamlessly bridge design and development, embodying a skill set essential for today’s dynamic tech landscape.",
     "bio2": "Notable contributions include developing responsive websites for 40+ clients and tailoring each site to meet individual clients' unique branding and user experience requirements. Implementing isomorphic React and Node.js for 40+ web applications, significantly decreasing load times by 58% and enhancing overall user experience. Optimizing code for rendering components on UI, reducing HTTP requests by 70% for applications dealing with extensive data sets, such as e-commerce platforms and data analytics tools. Utilizing Object Oriented Programming concepts to develop reusable UI components, enhancing efficiency across various web applications. Spearheaded Agile/Scrum practices in multiple web development projects, conducting daily standup meetings to ensure transparent communication, track progress, and swiftly address challenges.",
-    "contactmessage": "Get in touch! Whether you've got a query or simply want to discuss art, design, or tech, shoot me a message!",
+    "contactmessage": "Get in touch! Whether you've got a query or want to discuss art, design, or tech, shoot me a message!",
     "email": "jeremyejefferson@gmail.com",
     "phone": "(281) 946-9120‬",
     "github": "https://github.com/Jeremy-Jefferson",
@@ -51,7 +51,7 @@
       {
         "company": "Organized.Systems",
         "title": "Front-End Developer",
-        "years": "January 2016 - Present",
+        "years": "April 2021 - Present",
         "description": [
           "* Web Development & Design",
           "Built Responsive Websites:",
@@ -80,7 +80,7 @@
       {
         "company": "Stone & Brier",
         "title": "UI/UX Designer",
-        "years": "January 2017 - January 2019",
+        "years": "January 2019 - April 2021",
         "description": [
           "* Creative Direction and Client Collaboration",
           "Enhanced User Engagement:",
